@@ -2,7 +2,7 @@
 
 An end-to-end data analytics portfolio project exploring EV battery charging performance and battery-condition metrics using PostgreSQL, Python, Excel, and Power BI.
 
-![Power BI dashboard preview](images/dashboard_preview.png)
+![Power BI dashboard preview](dashboard/dashboard_preview.pdf)
 
 ## Project objective
 
@@ -107,7 +107,7 @@ The analysis reported 1,000 observations, no missing values, and no duplicate ro
 ├── docs/
 │   ├── data_dictionary.md
 │   └── insights.md
-├── images/
+├── dashboard/
 │   └── dashboard_preview.png
 └── reports/                  # Optional exported report images/PDF
 ```
