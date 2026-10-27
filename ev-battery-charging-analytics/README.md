@@ -97,7 +97,7 @@ The analysis reported 1,000 observations, no missing values, and no duplicate ro
 ├── data/
 │   └── raw/                  # Place the downloaded CSV here (not tracked by default)
 ├── sql/
-│   └── analysis_queries.sql
+│   └── EV Battery PostgreSQL.session.sql
 ├── python/
 │   └── 01_eda_ev_battery.py
 ├── excel/
