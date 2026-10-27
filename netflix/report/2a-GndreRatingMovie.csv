@@ -1,0 +1,11 @@
+"genres","release_year","imdb_score","imdb_votes"
+"['documentation']",2020,"8.9",31625
+"['action', 'scifi', 'music', 'thriller']",2010,"8.8",2294231
+"['drama', 'romance']",1994,"8.8",2021343
+"['drama', 'crime']",1990,"8.7",1131681
+"['comedy', 'drama', 'music', 'reality']",2021,"8.7",44074
+"['comedy', 'drama']",2003,"8.7",21167
+"['crime', 'thriller', 'drama']",1995,"8.6",1606270
+"['drama', 'thriller', 'crime', 'action']",2006,"8.5",1296244
+"['crime', 'drama', 'action', 'thriller', 'european']",1994,"8.5",1137357
+"['thriller', 'drama', 'crime']",2016,"8.5",10548

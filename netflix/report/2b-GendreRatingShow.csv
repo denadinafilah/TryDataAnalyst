@@ -1,0 +1,11 @@
+"genres","release_year","imdb_score","imdb_votes"
+"['drama', 'crime', 'thriller']",2008,"9.5",1775990
+"['scifi', 'animation', 'action', 'family', 'fantasy']",2005,"9.3",303666
+"['documentation']",2019,"9.3",42259
+"['documentation', 'history', 'sport']",2020,"9.1",115915
+"['drama', 'comedy']",2019,"9.1",69316
+"['action', 'scifi', 'animation', 'horror', 'drama', 'fantasy']",2013,"9.0",325381
+"['animation', 'thriller', 'scifi', 'drama', 'fantasy', 'crime']",2006,"9.0",309445
+"['scifi', 'action', 'drama', 'animation', 'fantasy']",2021,"9.0",186899
+"['action', 'animation', 'comedy', 'fantasy']",2011,"9.0",92162
+"['comedy']",1989,"8.9",308824
